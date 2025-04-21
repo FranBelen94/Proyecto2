@@ -10,8 +10,12 @@ public class Principal {
 			System.out.println("Estamos haciendo control de versiones4 con Git");
 			System.out.println("Estamos haciendo control de versiones en rama1 con Git");
 			System.out.println("Estamos haciendo control de versiones2 en rama1 con Git");
+<<<<<<< HEAD
 			System.out.println("Estamos haciendo control de versiones4 con Git");
 			
+=======
+			System.out.println("Estamos haciendo control de versiones3 en rama1 con Git");
+>>>>>>> refs/heads/rama1
 	}
 
 }
